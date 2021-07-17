@@ -12,10 +12,10 @@ Os dados utilizados para análise foram disponibilizados no seguinte [link](http
 
 Para facilitar a compreensão das etapas realizadas, os seguintes tópicos devem ser acessados:
 
- - Instalação no Windows 10
- - Preparação do ambiente de desenvolvimento
- - Descrição da atividade proposta
- - Projeto Spark
+ - [Instalação no Windows 10](https://github.com/daniellecd/projeto_semantix/blob/main/Instala%C3%A7%C3%A3o%20no%20Windows%2010.md)
+ - [Preparação do ambiente de desenvolvimento](https://github.com/daniellecd/projeto_semantix/blob/main/Ambiente%20de%20Desenvolvimento.md)
+ - [Descrição da atividade proposta](https://github.com/daniellecd/projeto_semantix/blob/main/Atividade%20Proposta.md)
+ - [Projeto Final Spark](https://github.com/daniellecd/projeto_semantix/blob/main/Projeto%20Final%20Spark.ipynb)
 
 De forma complementar, disponibilizo as notas de aula do curso, as quais usei como referência para realização do projeto. Os arquivo podem ser acessados no [github](https://github.com/daniellecd/big-data-engineer) ou em formato de livro no [gitbook](https://daniellecd.gitbook.io/big-data-engineer/).
 
