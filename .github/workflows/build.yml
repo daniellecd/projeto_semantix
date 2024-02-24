@@ -1,4 +1,4 @@
-name: Build
+name: My Test Single Project
 on:
   push:
     branches:
@@ -12,9 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Shallow clones should be disabled for a better relevancy of analysis
+          fetch-depth: 0  
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
+        env: 
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
